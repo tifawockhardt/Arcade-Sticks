@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 593.44 341.16">
+  <defs>
+    <style>
+      .b {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <rect class="b" x=".5" y=".5" width="592.44" height="340.16" rx="14.94" ry="14.94"/>
+  <circle class="b" cx="50.11" cy="101.41" r="38.27"/>
+  <circle class="b" cx="132.3" cy="101.41" r="38.27"/>
+  <circle class="b" cx="208.84" cy="133.74" r="38.27"/>
+  <circle class="b" cx="257.66" cy="282.95" r="38.27"/>
+  <circle class="b" cx="292.55" cy="190.42" r="38.27"/>
+  <circle class="b" cx="306.53" cy="99.75" r="38.27"/>
+  <circle class="b" cx="364.51" cy="156.58" r="38.27"/>
+  <circle class="b" cx="382.95" cy="68.59" r="38.27"/>
+  <circle class="b" cx="446.74" cy="156.53" r="38.27"/>
+  <circle class="b" cx="465.18" cy="68.54" r="38.27"/>
+  <circle class="b" cx="528.84" cy="156.53" r="38.27"/>
+  <circle class="b" cx="547.28" cy="68.54" r="38.27"/>
+  <circle class="b" cx="17.51" cy="323.2" r="5.67" transform="translate(-122.35 31.3) rotate(-22.5)"/>
+  <circle class="b" cx="17.51" cy="17.7" r="5.67" transform="translate(-5.44 8.05) rotate(-22.5)"/>
+  <circle class="b" cx="309.36" cy="17.7" r="5.67" transform="translate(242.33 320.23) rotate(-80.78)"/>
+  <circle class="b" cx="309.69" cy="323.2" r="5.67"/>
+  <circle class="b" cx="577" cy="323.34" r="5.67"/>
+  <circle class="b" cx="577" cy="17.7" r="5.67"/>
+  <circle class="b" cx="51.61" cy="28.89" r="9.92"/>
+  <circle class="b" cx="79.94" cy="28.89" r="9.92"/>
+  <circle class="b" cx="108.28" cy="28.89" r="9.92"/>
+  <circle class="b" cx="136.61" cy="28.89" r="9.92"/>
+  <circle class="b" cx="164.94" cy="28.89" r="9.92"/>
+  <circle class="b" cx="193.28" cy="28.89" r="9.92"/>
+</svg>
