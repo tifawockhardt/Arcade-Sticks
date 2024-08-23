@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 919.43 552.62">
+  <defs>
+    <style>
+      .b {
+        stroke-miterlimit: 10;
+      }
+
+      .b, .c {
+        fill: none;
+        stroke: #000;
+      }
+
+      .c {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path class="c" d="M339.03,62.01c-3.44,5.96-9.81,9.64-16.69,9.64H26.58c-14.4,0-26.08,11.68-26.08,26.08v419.81c0,19.1,15.48,34.58,34.58,34.58h849.26c19.1,0,34.58-15.48,34.58-34.58V37.92c0-20.67-16.75-37.42-37.42-37.42h-500.09c-4.25,0-8.18,2.27-10.31,5.95l-32.08,55.56Z"/>
+  <circle class="c" cx="459.71" cy="370.7" r="44.65"/>
+  <circle class="c" cx="253.51" cy="186.38" r="36.14"/>
+  <circle class="c" cx="417.19" cy="56.06" r="48.47"/>
+  <circle class="c" cx="338.47" cy="182.69" r="36.14"/>
+  <circle class="c" cx="415" cy="219.82" r="36.14"/>
+  <circle class="c" cx="493.73" cy="180.78" r="36.14"/>
+  <circle class="c" cx="570.26" cy="143.65" r="36.14"/>
+  <circle class="c" cx="740.34" cy="143.65" r="36.14"/>
+  <circle class="c" cx="655.3" cy="143.65" r="36.14"/>
+  <circle class="c" cx="734.67" cy="231.52" r="36.14"/>
+  <circle class="c" cx="649.63" cy="231.52" r="36.14"/>
+  <circle class="c" cx="564.59" cy="231.52" r="36.14"/>
+  <circle class="c" cx="559.89" cy="319.27" r="36.14"/>
+  <circle class="c" cx="488.06" cy="268.66" r="36.14"/>
+  <circle class="c" cx="368.96" cy="348.03" r="36.14"/>
+  <rect class="b" x="512.72" y="18.93" width="13.04" height="6.24"/>
+  <rect class="b" x="563.74" y="18.93" width="13.04" height="6.24"/>
+</svg>

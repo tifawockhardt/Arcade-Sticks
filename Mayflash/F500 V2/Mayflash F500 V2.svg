@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 922.26 555.46">
+  <defs>
+    <style>
+      .b {
+        stroke-miterlimit: 10;
+      }
+
+      .b, .c {
+        fill: none;
+        stroke: #000;
+      }
+
+      .c {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path class="c" d="M36.5,554.96c-19.88,0-36-16.12-36-36V99.15c0-15.19,12.31-27.5,27.5-27.5h295.76c6.38,0,12.28-3.4,15.47-8.93l32.08-55.56c2.38-4.12,6.78-6.66,11.54-6.66h500.09c21.45,0,38.83,17.39,38.83,38.83v479.62c0,19.88-16.12,36-36,36H36.5Z"/>
+  <path class="c" d="M370.99,57.48c0-26.3,21.32-47.62,47.62-47.62s47.62,21.32,47.62,47.62-21.32,47.62-47.62,47.62-47.62-21.32-47.62-47.62Z"/>
+  <circle class="c" cx="645.38" cy="292.75" r="43.37" transform="translate(-38.56 107.16) rotate(-9.22)"/>
+  <circle class="c" cx="747.43" cy="292.75" r="43.37" transform="translate(-54.55 258.41) rotate(-18.94)"/>
+  <circle class="c" cx="767.27" cy="182.2" r="43.37" transform="translate(484.84 918.5) rotate(-82.37)"/>
+  <circle class="c" cx="665.22" cy="182.2" r="43.37" transform="translate(425.69 829) rotate(-85)"/>
+  <circle class="c" cx="563.18" cy="182.2" r="43.37" transform="translate(293.12 708.92) rotate(-80.78)"/>
+  <circle class="c" cx="469.63" cy="221.89" r="43.37" transform="translate(84.92 570.86) rotate(-67.5)"/>
+  <path class="c" d="M499.96,292.75c0-23.95,19.42-43.37,43.37-43.37s43.37,19.42,43.37,43.37-19.42,43.37-43.37,43.37-43.37-19.42-43.37-43.37Z"/>
+  <circle class="c" cx="449.79" cy="329.6" r="43.37" transform="translate(-26.85 619.02) rotate(-67.5)"/>
+  <circle class="c" cx="282.55" cy="250.23" r="35.43" transform="translate(2.98 503.79) rotate(-83.74)"/>
+  <rect class="b" x="514.99" y="21.33" width="11.34" height="4.25"/>
+  <rect class="b" x="566.01" y="21.33" width="11.34" height="4.25"/>
+</svg>
